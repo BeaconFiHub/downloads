@@ -1,0 +1,8 @@
+{
+  "list": [
+    { "key": "hot", "name": "热门" },
+    { "key": "dex", "name": "DEX" },
+    { "key": "defi", "name": "DeFi" },
+    { "key": "infra", "name": "基础设施" }
+  ]
+}
