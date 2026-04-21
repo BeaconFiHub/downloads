@@ -18,6 +18,69 @@
       "tags": [
         { "key": "infra", "name": "基础设施" }
       ]
+    },
+    {
+      "id": "junames1.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames3.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames4.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames6.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames7.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames9.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    },
+    {
+      "id": "junames10.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
     }
   ]
 }
