@@ -1,0 +1,23 @@
+{
+  "list": [
+    {
+      "id": "cookswap.xyz",
+      "name": "CookSwap",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "DEX 新势力，聚合V3优质流动性",
+      "tags": [
+        { "key": "hot", "name": "热门" },
+        { "key": "dex", "name": "DEX" }
+      ]
+    },
+    {
+      "id": "junames.io",
+      "name": "Junames",
+      "logo_url": "https://cdn.jsdelivr.net/gh/chainres/coin/usdt.png",
+      "description": "去中心化身份协议",
+      "tags": [
+        { "key": "infra", "name": "基础设施" }
+      ]
+    }
+  ]
+}
